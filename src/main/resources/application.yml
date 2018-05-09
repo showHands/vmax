@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: 威迈汽车配件有限公司后台
+  profiles:
+    active: dev
